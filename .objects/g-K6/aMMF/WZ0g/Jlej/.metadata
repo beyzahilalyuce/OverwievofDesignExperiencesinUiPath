@@ -1,0 +1,14 @@
+﻿{
+  "Id": "Jlejw23MY0aTBbMWM-0xiQ",
+  "Reference": "UkWcECilq0eK8IZtha29jQ/Jlejw23MY0aTBbMWM-0xiQ",
+  "ParentRef": "UkWcECilq0eK8IZtha29jQ/WZ0gEWSjV0Obf6vt3DcBJQ",
+  "Name": "Kaydet Ctrl+S",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2023-06-11T06:01:07.4236004Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-06-11T06:01:07.4236004Z"
+}

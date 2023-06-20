@@ -1,0 +1,14 @@
+﻿{
+  "Id": "_Rb1Hm2_ZEiaqWzPNrMVpw",
+  "Reference": "UkWcECilq0eK8IZtha29jQ/_Rb1Hm2_ZEiaqWzPNrMVpw",
+  "ParentRef": "UkWcECilq0eK8IZtha29jQ/WZ0gEWSjV0Obf6vt3DcBJQ",
+  "Name": "*.txt",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-06-11T06:02:18.087892Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-06-11T06:02:18.087892Z"
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "WZ0gEWSjV0Obf6vt3DcBJQ",
+  "Reference": "UkWcECilq0eK8IZtha29jQ/WZ0gEWSjV0Obf6vt3DcBJQ",
+  "ParentRef": "UkWcECilq0eK8IZtha29jQ/aMMFPiqG6kWNMjys9_4FHQ",
+  "Name": "Adsız - Not Defteri",
+  "Type": "Screen",
+  "Created": "2023-06-11T05:59:19.8326396Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-06-11T05:59:19.8326396Z"
+}

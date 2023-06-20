@@ -1,0 +1,14 @@
+﻿{
+  "Id": "0Hp3kohA4kKh6KeFYnuLmQ",
+  "Reference": "UkWcECilq0eK8IZtha29jQ/0Hp3kohA4kKh6KeFYnuLmQ",
+  "ParentRef": "UkWcECilq0eK8IZtha29jQ/WZ0gEWSjV0Obf6vt3DcBJQ",
+  "Name": "Dosya",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2023-06-11T06:00:39.4307822Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-06-11T06:00:39.4307822Z"
+}

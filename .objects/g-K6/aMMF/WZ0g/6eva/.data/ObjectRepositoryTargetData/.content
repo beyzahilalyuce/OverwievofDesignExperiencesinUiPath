@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nZDbt28zVUyRjXT18EOcqw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="971, 1, 47, 30" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Kapat'" FullSelectorArgument="&lt;ctrl name='Kapat' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Kapat' role='push button' automationid='' check:text='Kapat' /&gt;" Guid="35340f7a-5982-4272-b215-fd4f24d46099" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAADMAAAAhCAYAAAB0v5O6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADxSURBVFhH7dXRCkRAFMbxudl2H9dbIjRChChceIyzfVNaF1btNsfOnuZfokjnV2OoIAjo3495nmldV1L05wEzDAMtyyID03UdTdMkA9M0DY3jKANTVRX1fS8DUxQFtW0rA5PnuVlqIjBaa6rrWgYmyzLz3YjApGlKZVnaxyilzMvfhXt4xlbAJEliNgHrGAx7uz8OQWf3vg2YOI7NJsCyzI6G5oAgYKIo4sOg/fBcEARMGIZmR2PDoA3BBUEe82kbBOf9te3YMUfDc4FYMWdDc4BYMb/4aV6yAVyRx7iax7iax7iax7iax7iax7jaC6PpCZSzOMB2nEmVAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='notepad.exe' cls='Notepad' title='My First Ui Automation Project - Not Defteri' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b6975ae6858477d3ca84888e1c8109cb.png" xmlns="">0sfihPcVOV0KWyw_gaMB3Cw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

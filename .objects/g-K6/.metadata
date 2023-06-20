@@ -1,0 +1,12 @@
+﻿{
+  "Id": "g-K6JvLEkUuXkqGA7BBCGA",
+  "Reference": "UkWcECilq0eK8IZtha29jQ/g-K6JvLEkUuXkqGA7BBCGA",
+  "Name": "Adsız - Not Defteri",
+  "Type": "App",
+  "Created": "2023-06-11T05:59:19.6685637Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-06-11T05:59:19.6685637Z"
+}
